@@ -1,5 +1,5 @@
 ## 🧑🏻‍💻 About Me
-- **최이승우 (Choi Lee Seungwoo)** | 2000.12.11 | Software Developer  
+- **최이승우 (Choi Yiseungwoo)** | 2000.12.11 | Software Developer  
 - 🎓 **Hanshin University**, B.S. in Computer Engineering (2019.03 ~ 2025.02)  
 - 🕹️ **Korean Game Science High School**, Major in Programming (2016.03 ~ 2019.02)
 
