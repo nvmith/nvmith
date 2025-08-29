@@ -3,7 +3,7 @@
 - 🎓 **Hanshin University**, B.S. in Computer Engineering (2019.03 ~ 2025.02)  
 - 🕹️ **Korean Game Science High School**, Major in Programming (2016.03 ~ 2019.02)
 
----
+--
 
 ## 📌 Tech Stack
 
